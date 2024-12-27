@@ -1,11 +1,11 @@
-name = "masih"
+name = "elbar"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "103.168.146.169:20132"
+# PROXYIP = "104.248.146.212:2053"
 UUID = "83621a21-61ea-4ff2-983b-052b025c89ed"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
