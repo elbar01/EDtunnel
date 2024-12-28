@@ -1,11 +1,11 @@
-name = "asun11"
+name = "ibuelbar"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "143.198.213.197"
-UUID = "5da0cf70-65b0-4bc7-9564-4b32691aa025"
+PROXYIP = "143.198.213.197:443"
+UUID = "abd1a7c2-874e-46eb-bca0-e6d85746f54c"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
