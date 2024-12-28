@@ -1,11 +1,11 @@
-name = "asun09"
+name = "asun11"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "103.133.223.51:2096"
+PROXYIP = "178.128.91.137:443"
 UUID = "5da0cf70-65b0-4bc7-9564-4b32691aa025"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
