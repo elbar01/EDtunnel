@@ -5,7 +5,7 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [vars]
-PROXYIP = "47.236.60.3:443"
+PROXYIP = "210.16.65.149:443"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
