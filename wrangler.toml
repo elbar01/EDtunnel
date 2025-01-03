@@ -1,11 +1,11 @@
-name = "sgdo5"
+name = "sgdo6"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "146.190.111.165:443"
+PROXYIP = "143.198.213.197:443"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
