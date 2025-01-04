@@ -1,11 +1,11 @@
-name = "sgdo7"
+name = "sgContabo"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "128.199.171.100:2053"
+PROXYIP = "217.15.162.131:8000"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
