@@ -1,4 +1,4 @@
-name = "sgdo9"
+name = "sgdo7"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -9,7 +9,7 @@ pattern = "sandiasun.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "152.42.172.170:8443"
+PROXYIP = "128.199.171.100:2053"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
