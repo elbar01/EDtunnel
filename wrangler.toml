@@ -1,21 +1,21 @@
-name = "indoserver"
+name = "Malaysia"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "indo.sandiasun.biz.id"
+pattern = "malay.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.indo.sandiasun.biz.id"
+pattern = "quiz.int.vidio.com.malay.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.indo.sandiasun.biz.id"
+pattern = "ava.game.naver.com.malay.sandiasun.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.133.223.52:2096"
+PROXYIP = "43.216.228.247:443"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
