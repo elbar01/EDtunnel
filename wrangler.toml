@@ -1,21 +1,21 @@
-name = "sgmicrosop"
+name = "amazonarab"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "sgmicrosop.sandiasun.biz.id"
+pattern = "amazonarab.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sgmicrosop.sandiasun.biz.id"
+pattern = "quiz.int.vidio.com.amazonarab.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sgmicrosop.sandiasun.biz.id"
+pattern = "ava.game.naver.com.amazonarab.sandiasun.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "20.198.241.32:2053"
+PROXYIP = "3.29.102.89:443"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
