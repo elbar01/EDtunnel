@@ -1,21 +1,21 @@
-name = "jpmicrosop"
+name = "indotencen"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "jpmicrosop.sandiasun.biz.id"
+pattern = "indotencen.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.jpmicrosop.sandiasun.biz.id"
+pattern = "quiz.int.vidio.com.indotencen.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.jpmicrosop.sandiasun.biz.id"
+pattern = "ava.game.naver.com.indotencen.sandiasun.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "48.218.160.250:2053"
+PROXYIP = "43.133.145.156:53136"
 UUID = "069e3034-f7a5-42d4-9114-b75dda87975f"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
