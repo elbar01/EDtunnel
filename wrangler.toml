@@ -8,7 +8,7 @@ workers_dev = true
 pattern = "indotencen.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.indotencen.sandiasun.biz.id"
+pattern = "support.vidio.com.indotencen.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
 pattern = "ava.game.naver.com.indotencen.sandiasun.biz.id"
