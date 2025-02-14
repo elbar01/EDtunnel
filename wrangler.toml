@@ -14,7 +14,7 @@ custom_domain = true
 pattern = "ava.game.naver.com.sgdonew.sandiasun.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "cache.netflix.com.sgdonew.sandiasun.biz.id"
+pattern = "npca.netflix.com.sgdonew.sandiasun.biz.id"
 custom_domain = true
 
 [vars]
