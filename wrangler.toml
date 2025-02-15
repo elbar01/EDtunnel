@@ -1,20 +1,20 @@
-name = "sgdonew"
+name = "sgdonewmyid"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [[routes]]
-pattern = "sgdonew.sandiasun.biz.id"
+pattern = "sgdonewmyid.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.vidio.com.sgdonew.sandiasun.biz.id"
+pattern = "support.vidio.com.sgdonewmyid.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sgdonew.sandiasun.biz.id"
+pattern = "ava.game.naver.com.sgdonewmyid.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "npca.netflix.com.sgdonew.sandiasun.biz.id"
+pattern = "npca.netflix.com.sgdonewmyid.elbarputra.my.id"
 custom_domain = true
 
 [vars]
